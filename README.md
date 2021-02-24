@@ -22,9 +22,7 @@ $ bash Option.sh
 # Sosmed Saya
 
 ```
-Facebook: https://www.facebook.com/dimas.gans.94
-Gmail1  : mrtcgcyber404@gmail.com 
-Gmail2  : dewalangit2004@.com
-Blog    : https://cyber-tcg.blogspot.com
-Whatapp : +6283813844572
+Facebook: fikri ndesilpa
+Gmail1  : maulanafikri357@gmail.com
+Whatapp : 081391211019
 ```         
